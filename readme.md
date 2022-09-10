@@ -1,4 +1,4 @@
-# Hi there, I'm Jesse - aka [codeSTACKr][youtube] 👋 
+# Hi there, I'm Lucas 👋 
 
 [![Mon Site](https://tryon-dev.me)](https://tryon-dev.me)
 
