@@ -2,6 +2,6 @@
 <h3 align="center">J'adore toucher a tout</h3>  
   
   
-- 🔭 I’m currently working on [Paladium](https://paladium-pvp.fr/)  
+- 🔭 J'apprend actuellement le javascript 
   
 - 💬 Ask me about **Java, VMware ESXI**  
