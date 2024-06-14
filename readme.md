@@ -5,7 +5,7 @@ Tryon</a></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tryon-dev&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://cdn.discordapp.com/attachments/1049790096808886282/1141879579972223027/Frame_6.png">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://cdn.tryon-lab.fr/github/banner.png">
 </a>
 
 - 🔭 I’m currently working in <a href="https://getpapillon.xyz" target="blank">Papillon</a>
