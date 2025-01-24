@@ -10,11 +10,11 @@ Tryon</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://cdn.tryon-lab.fr/github/banner.png">
 </a>
 
-- 🔭 I’m currently working in <a href="https://getpapillon.xyz" target="blank">Papillon</a>
+- 🔭 I’m currently working in <a href="https://papillon.bzh" target="blank">Papillon</a>
 
 - 🤝 I’m student in system administration.
 
-- 🌱 I’m currently learning Python & JS
+- 🌱 I’m currently learning Swift
 
 - 📫 How to reach me **contact[at]tryon-lab[dot]fr**
 <br/>
